@@ -1,8 +1,8 @@
 🧮 2D Arrays in C++
 **🎯 AIM
 To understand and implement two-dimensional arrays in C++, exploring their structure, operations, and applications in matrix manipulation and algorithmic problem-solving.
-
-**📚 THEORY
+---
+📚 THEORY
 📌 2D Arrays
 A 2D array is a grid-like data structure where elements are stored in rows and columns.
 It is essentially an array of arrays, allowing representation of matrices and tabular data.
