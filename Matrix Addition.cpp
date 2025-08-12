@@ -1,4 +1,4 @@
-// Ankush Jhq
+// Ankush Jha
 // 24070123016
 
 #include<iostream>
