@@ -1,6 +1,7 @@
 **🧮 2D Arrays in C++**
 ---
 **🎯 AIM**
+---
 To understand and implement two-dimensional arrays in C++, exploring their structure, operations, and applications in matrix manipulation and algorithmic problem-solving.
 ---
 **📚 THEORY**
